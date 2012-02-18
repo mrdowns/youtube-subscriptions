@@ -1,0 +1,898 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/">
+    <id>http://gdata.youtube.com/feeds/base/users/mrdowns/newsubscriptionvideos</id>
+    <updated>2012-02-17T03:25:01.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video" />
+    <title type="text">New Subscription Videos for mrdowns</title>
+    <logo>http://www.youtube.com/img/pic_youtubelogo_123x63.gif</logo>
+    <link rel="alternate" type="text/html" href="http://www.youtube.com/subscription_center" />
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="http://gdata.youtube.com/feeds/base/users/mrdowns/newsubscriptionvideos" />
+    <link rel="http://schemas.google.com/g/2005#batch" type="application/atom+xml" href="http://gdata.youtube.com/feeds/base/users/mrdowns/newsubscriptionvideos/batch" />
+    <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/base/users/mrdowns/newsubscriptionvideos?start-index=1&amp;max-results=25" />
+    <link rel="next" type="application/atom+xml" href="http://gdata.youtube.com/feeds/base/users/mrdowns/newsubscriptionvideos?start-index=26&amp;max-results=25" />
+    <author>
+        <name>YouTube</name>
+        <uri>http://www.youtube.com/</uri>
+    </author>
+    <generator version="2.1" uri="http://gdata.youtube.com">YouTube data API</generator>
+    <openSearch:totalResults>59</openSearch:totalResults>
+    <openSearch:startIndex>1</openSearch:startIndex>
+    <openSearch:itemsPerPage>25</openSearch:itemsPerPage>
+    <entry>
+        <id>http://gdata.youtube.com/feeds/base/videos/QL39g_lxmMk</id>
+        <published>2012-02-17T01:06:05.000Z</published>
+        <updated>2012-02-17T03:25:00.000Z</updated>
+        <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video" />
+        <title type="text">Left 4 Dead 2 - Questionable Ethics Part 1</title>
+        <content type="html">&lt;div style="color: #000000;font-family: Arial, Helvetica, sans-serif;     font-size:12px; font-size: 12px; width: 555px;"&gt;
+&lt;table cellspacing="0" cellpadding="0" border="0"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td width="140" valign="top" rowspan="2"&gt;&lt;div style="border: 1px solid #999999; margin: 0px 10px 5px 0px;"&gt;&lt;a href="http://www.youtube.com/watch?v=QL39g_lxmMk&amp;amp;feature=youtube_gdata"&gt;&lt;img alt="" src="http://i.ytimg.com/vi/QL39g_lxmMk/0.jpg"&gt;&lt;/a&gt;&lt;/div&gt;&lt;/td&gt;
+&lt;td width="256" valign="top"&gt;&lt;div style="font-size: 12px; font-weight: bold;"&gt;&lt;a style="font-size: 15px; font-weight: bold;                  font-decoration: none;" href="http://www.youtube.com/watch?v=QL39g_lxmMk&amp;amp;feature=youtube_gdata"&gt;Left 4 Dead 2 - Questionable Ethics Part 1&lt;/a&gt;
+&lt;br&gt;&lt;/div&gt;
+&lt;div style="font-size: 12px; margin: 3px 0px;"&gt;&lt;span&gt;The survivors are plunged into a deadly series of rooms and traps, and must work together to survive! This is actually pretty hard, and you know how bad we are at computer games, so settle in for a bumpy ride :D
+
+Here&amp;#39;s the mod: http://www.l4dmaps.com/details.php?file=9773
+It should just be a double-click-to-install with the new steam workshop stuff, so have fun!&lt;/span&gt;&lt;/div&gt;&lt;/td&gt;
+&lt;td style="font-size: 11px; line-height: 1.4em; padding-left: 20px;             padding-top: 1px;" width="146" valign="top"&gt;&lt;div&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;From:&lt;/span&gt;
+&lt;a href="http://www.youtube.com/profile?user=BlueXephos"&gt;BlueXephos&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;Views:&lt;/span&gt;
+317&lt;/div&gt;
+&lt;div style="white-space: nowrap;text-align: left"&gt;&lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_half_11x11.gif"&gt;&lt;/div&gt;
+&lt;div style="font-size: 11px;"&gt;1204
+&lt;span style="color: #666666; font-size: 11px;"&gt;ratings&lt;/span&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;Time:&lt;/span&gt;
+&lt;span style="color: #000000; font-size: 11px; font-weight: bold;"&gt;18:08&lt;/span&gt;&lt;/td&gt;
+&lt;td style="font-size: 11px; padding-left: 20px;"&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;More in&lt;/span&gt;
+&lt;a href="http://www.youtube.com/videos?c=20"&gt;Gaming&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;</content>
+        <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=QL39g_lxmMk&amp;feature=youtube_gdata" />
+        <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/base/users/mrdowns/newsubscriptionvideos/QL39g_lxmMk" />
+        <author>
+            <name>BlueXephos</name>
+            <uri>http://gdata.youtube.com/feeds/base/users/BlueXephos</uri>
+        </author>
+    </entry>
+    <entry>
+        <id>http://gdata.youtube.com/feeds/base/videos/H11U3ul-wJ8</id>
+        <published>2012-02-16T20:52:16.000Z</published>
+        <updated>2012-02-17T03:25:01.000Z</updated>
+        <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video" />
+        <title type="text">? Hey Yogscast - Fan-made Song and Animation</title>
+        <content type="html">&lt;div style="color: #000000;font-family: Arial, Helvetica, sans-serif;     font-size:12px; font-size: 12px; width: 555px;"&gt;
+&lt;table cellspacing="0" cellpadding="0" border="0"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td width="140" valign="top" rowspan="2"&gt;&lt;div style="border: 1px solid #999999; margin: 0px 10px 5px 0px;"&gt;&lt;a href="http://www.youtube.com/watch?v=H11U3ul-wJ8&amp;amp;feature=youtube_gdata"&gt;&lt;img alt="" src="http://i.ytimg.com/vi/H11U3ul-wJ8/0.jpg"&gt;&lt;/a&gt;&lt;/div&gt;&lt;/td&gt;
+&lt;td width="256" valign="top"&gt;&lt;div style="font-size: 12px; font-weight: bold;"&gt;&lt;a style="font-size: 15px; font-weight: bold;                  font-decoration: none;" href="http://www.youtube.com/watch?v=H11U3ul-wJ8&amp;amp;feature=youtube_gdata"&gt;&amp;#9834; Hey Yogscast - Fan-made Song and Animation&lt;/a&gt;
+&lt;br&gt;&lt;/div&gt;
+&lt;div style="font-size: 12px; margin: 3px 0px;"&gt;&lt;span&gt;&amp;diams; Acoustic and vocals sent in by Monica AKA Kitfoxpup on our forums!!
+&amp;#9834; Available on iTunes and Bandcamp - with sales going to Monica! &amp;#9834; http://itunes.apple.com/gb/album/hey-yogscast-single/id500893834
+http://yogscaststudios.bandcamp.com/track/hey-yogscast
+&amp;diams; Animation by Ciaran: http://www.youtube.com/user/Ceeraanoo
+&amp;diams; Bass guitar and mastering by Sparkles* http://www.youtube.com/user/area11band
+
+&amp;#9679; Hey Yogscast T-Shirts available now! 
+SPECIAL OFFER: get 15% off any order over $30.00 / &amp;pound;30.00 / 30.00 EUROS using the code YOGSPRING! This offer is only valid until the 19th of February!
+
+US Store: http://yogscast.spreadshirt.com
+UK Store: http://yogscast.spreadshirt.co.uk
+EU Store: http://yogscast.spreadshirt.net
+
+&amp;#9679; Facebook http://www.facebook.com/yogscast
+&amp;#9679; Twitter http://www.twitter.com/yogscast
+&amp;#9679; Forums: http://yogscast.com/forum.php&lt;/span&gt;&lt;/div&gt;&lt;/td&gt;
+&lt;td style="font-size: 11px; line-height: 1.4em; padding-left: 20px;             padding-top: 1px;" width="146" valign="top"&gt;&lt;div&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;From:&lt;/span&gt;
+&lt;a href="http://www.youtube.com/profile?user=BlueXephos"&gt;BlueXephos&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;Views:&lt;/span&gt;
+313&lt;/div&gt;
+&lt;div style="white-space: nowrap;text-align: left"&gt;&lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_half_11x11.gif"&gt;&lt;/div&gt;
+&lt;div style="font-size: 11px;"&gt;12034
+&lt;span style="color: #666666; font-size: 11px;"&gt;ratings&lt;/span&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;Time:&lt;/span&gt;
+&lt;span style="color: #000000; font-size: 11px; font-weight: bold;"&gt;03:50&lt;/span&gt;&lt;/td&gt;
+&lt;td style="font-size: 11px; padding-left: 20px;"&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;More in&lt;/span&gt;
+&lt;a href="http://www.youtube.com/videos?c=10"&gt;Music&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;</content>
+        <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=H11U3ul-wJ8&amp;feature=youtube_gdata" />
+        <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/base/users/mrdowns/newsubscriptionvideos/H11U3ul-wJ8" />
+        <author>
+            <name>BlueXephos</name>
+            <uri>http://gdata.youtube.com/feeds/base/users/BlueXephos</uri>
+        </author>
+    </entry>
+    <entry>
+        <id>http://gdata.youtube.com/feeds/base/videos/sB9CuGA6ykY</id>
+        <published>2012-02-16T14:27:41.000Z</published>
+        <updated>2012-02-17T03:08:46.000Z</updated>
+        <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video" />
+        <title type="text">Lee Wrights for President: Florida Debate Highlights</title>
+        <content type="html">&lt;div style="color: #000000;font-family: Arial, Helvetica, sans-serif;     font-size:12px; font-size: 12px; width: 555px;"&gt;
+&lt;table cellspacing="0" cellpadding="0" border="0"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td width="140" valign="top" rowspan="2"&gt;&lt;div style="border: 1px solid #999999; margin: 0px 10px 5px 0px;"&gt;&lt;a href="http://www.youtube.com/watch?v=sB9CuGA6ykY&amp;amp;feature=youtube_gdata"&gt;&lt;img alt="" src="http://i.ytimg.com/vi/sB9CuGA6ykY/0.jpg"&gt;&lt;/a&gt;&lt;/div&gt;&lt;/td&gt;
+&lt;td width="256" valign="top"&gt;&lt;div style="font-size: 12px; font-weight: bold;"&gt;&lt;a style="font-size: 15px; font-weight: bold;                  font-decoration: none;" href="http://www.youtube.com/watch?v=sB9CuGA6ykY&amp;amp;feature=youtube_gdata"&gt;Lee Wrights for President: Florida Debate Highlights&lt;/a&gt;
+&lt;br&gt;&lt;/div&gt;
+&lt;div style="font-size: 12px; margin: 3px 0px;"&gt;&lt;span&gt;Lee&amp;#39;s answers to the questions from the Florida Libertarian Party Debate on 2/11/2012. Mirrored from the Wrights for President channel: http://www.youtube.com/WrightsforPresident
+
+Support Lee Wrights for President: http://wrights2012.com/
+
+Donate to the Lee Wrights campaign: http://tinyurl.com/WrightsforPresident-Donate&lt;/span&gt;&lt;/div&gt;&lt;/td&gt;
+&lt;td style="font-size: 11px; line-height: 1.4em; padding-left: 20px;             padding-top: 1px;" width="146" valign="top"&gt;&lt;div&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;From:&lt;/span&gt;
+&lt;a href="http://www.youtube.com/profile?user=shanedk"&gt;shanedk&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;Views:&lt;/span&gt;
+216&lt;/div&gt;
+&lt;div style="white-space: nowrap;text-align: left"&gt;&lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_empty_11x11.gif"&gt;&lt;/div&gt;
+&lt;div style="font-size: 11px;"&gt;13
+&lt;span style="color: #666666; font-size: 11px;"&gt;ratings&lt;/span&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;Time:&lt;/span&gt;
+&lt;span style="color: #000000; font-size: 11px; font-weight: bold;"&gt;24:10&lt;/span&gt;&lt;/td&gt;
+&lt;td style="font-size: 11px; padding-left: 20px;"&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;More in&lt;/span&gt;
+&lt;a href="http://www.youtube.com/videos?c=25"&gt;News &amp;amp; Politics&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;</content>
+        <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=sB9CuGA6ykY&amp;feature=youtube_gdata" />
+        <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/base/users/mrdowns/newsubscriptionvideos/sB9CuGA6ykY" />
+        <author>
+            <name>shanedk</name>
+            <uri>http://gdata.youtube.com/feeds/base/users/shanedk</uri>
+        </author>
+    </entry>
+    <entry>
+        <id>http://gdata.youtube.com/feeds/base/videos/shI5oOTMkMk</id>
+        <published>2012-02-16T10:14:59.000Z</published>
+        <updated>2012-02-17T03:11:59.000Z</updated>
+        <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video" />
+        <title type="text">Is Harrisburg's Nightmare America's Future?</title>
+        <content type="html">&lt;div style="color: #000000;font-family: Arial, Helvetica, sans-serif;     font-size:12px; font-size: 12px; width: 555px;"&gt;
+&lt;table cellspacing="0" cellpadding="0" border="0"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td width="140" valign="top" rowspan="2"&gt;&lt;div style="border: 1px solid #999999; margin: 0px 10px 5px 0px;"&gt;&lt;a href="http://www.youtube.com/watch?v=shI5oOTMkMk&amp;amp;feature=youtube_gdata"&gt;&lt;img alt="" src="http://i.ytimg.com/vi/shI5oOTMkMk/0.jpg"&gt;&lt;/a&gt;&lt;/div&gt;&lt;/td&gt;
+&lt;td width="256" valign="top"&gt;&lt;div style="font-size: 12px; font-weight: bold;"&gt;&lt;a style="font-size: 15px; font-weight: bold;                  font-decoration: none;" href="http://www.youtube.com/watch?v=shI5oOTMkMk&amp;amp;feature=youtube_gdata"&gt;Is Harrisburg&amp;#39;s Nightmare America&amp;#39;s Future?&lt;/a&gt;
+&lt;br&gt;&lt;/div&gt;
+&lt;div style="font-size: 12px; margin: 3px 0px;"&gt;&lt;span&gt;The city of Harrisburg is Ground Zero for America&amp;#39;s municipal debt crisis.
+
+Pennsylvania&amp;#39;s capital city has liabilities estimated at $610 million, which is nearly ten times its annual budget. The city is so deep in the red that last year it attempted to file for bankruptcy. Reckless spending did more than ruin Harrisburg&amp;#39;s balance sheet; it crowded out private industry and distracted from the city&amp;#39;s core functions. Today, Harrisburg is a dangerous, poverty-stricken city, with failing schools and a shrinking population.
+
+Harrisburg&amp;#39;s fiscal nightmare may be a harbinger of things to come for American cities. In the mid-90s, local governments embarked on a spending binge, bringing total municipal debt in the United States to more than $2.8 trillion. Along with Harrisburg, Jefferson County, Alabama, Vallejo, California, and Central Falls, Rhode Island have filed for bankruptcy in the past few years. Several more cities are on the brink of default, largely thanks to taxpayer-financed stadiums, museums, housing, commercial complexes, other misconceived economic development projects, and runaway public sector salaries, pensions, and benefit packages.
+
+Is your hometown the next Harrisburg?
+
+Shot, edited, written, and produced by Jim Epstein, who also narrates.
+
+Approximately 7 minutes.
+
+Go to http://Reason.tv for downloadable versions and subscribe to Reason.tv&amp;#39;s YouTube Channel to receive automatic updates when new material goes live.&lt;/span&gt;&lt;/div&gt;&lt;/td&gt;
+&lt;td style="font-size: 11px; line-height: 1.4em; padding-left: 20px;             padding-top: 1px;" width="146" valign="top"&gt;&lt;div&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;From:&lt;/span&gt;
+&lt;a href="http://www.youtube.com/profile?user=ReasonTV"&gt;ReasonTV&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;Views:&lt;/span&gt;
+301&lt;/div&gt;
+&lt;div style="white-space: nowrap;text-align: left"&gt;&lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_half_11x11.gif"&gt;&lt;/div&gt;
+&lt;div style="font-size: 11px;"&gt;230
+&lt;span style="color: #666666; font-size: 11px;"&gt;ratings&lt;/span&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;Time:&lt;/span&gt;
+&lt;span style="color: #000000; font-size: 11px; font-weight: bold;"&gt;06:59&lt;/span&gt;&lt;/td&gt;
+&lt;td style="font-size: 11px; padding-left: 20px;"&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;More in&lt;/span&gt;
+&lt;a href="http://www.youtube.com/videos?c=25"&gt;News &amp;amp; Politics&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;</content>
+        <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=shI5oOTMkMk&amp;feature=youtube_gdata" />
+        <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/base/users/mrdowns/newsubscriptionvideos/shI5oOTMkMk" />
+        <author>
+            <name>ReasonTV</name>
+            <uri>http://gdata.youtube.com/feeds/base/users/ReasonTV</uri>
+        </author>
+    </entry>
+    <entry>
+        <id>http://gdata.youtube.com/feeds/base/videos/YHu9du-6eTA</id>
+        <published>2012-02-16T02:19:35.000Z</published>
+        <updated>2012-02-17T03:20:16.000Z</updated>
+        <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video" />
+        <title type="text">Another flagged video and my future on YouTube</title>
+        <content type="html">&lt;div style="color: #000000;font-family: Arial, Helvetica, sans-serif;     font-size:12px; font-size: 12px; width: 555px;"&gt;
+&lt;table cellspacing="0" cellpadding="0" border="0"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td width="140" valign="top" rowspan="2"&gt;&lt;div style="border: 1px solid #999999; margin: 0px 10px 5px 0px;"&gt;&lt;a href="http://www.youtube.com/watch?v=YHu9du-6eTA&amp;amp;feature=youtube_gdata"&gt;&lt;img alt="" src="http://i.ytimg.com/vi/YHu9du-6eTA/0.jpg"&gt;&lt;/a&gt;&lt;/div&gt;&lt;/td&gt;
+&lt;td width="256" valign="top"&gt;&lt;div style="font-size: 12px; font-weight: bold;"&gt;&lt;a style="font-size: 15px; font-weight: bold;                  font-decoration: none;" href="http://www.youtube.com/watch?v=YHu9du-6eTA&amp;amp;feature=youtube_gdata"&gt;Another flagged video and my future on YouTube&lt;/a&gt;
+&lt;br&gt;&lt;/div&gt;
+&lt;div style="font-size: 12px; margin: 3px 0px;"&gt;&lt;span&gt;I&amp;#39;m very frustrated with the casual way that my content can be yanked and my account suspended.  Two false flaggings in a month, DMCAs and age restrictions on scientific content, yet videos flagrantly violating community standards remain untouched.  When I reported death threats and people attempting to drop my docs, no response and no action.
+
+I am very conscious of my mission here, and the obligation I feel to continue for my subscribers, who have supported me for years, but the red screen warning about account suspension makes me feel very uneasy about my future here.&lt;/span&gt;&lt;/div&gt;&lt;/td&gt;
+&lt;td style="font-size: 11px; line-height: 1.4em; padding-left: 20px;             padding-top: 1px;" width="146" valign="top"&gt;&lt;div&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;From:&lt;/span&gt;
+&lt;a href="http://www.youtube.com/profile?user=C0nc0rdance"&gt;C0nc0rdance&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;Views:&lt;/span&gt;
+4927&lt;/div&gt;
+&lt;div style="white-space: nowrap;text-align: left"&gt;&lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_half_11x11.gif"&gt;&lt;/div&gt;
+&lt;div style="font-size: 11px;"&gt;975
+&lt;span style="color: #666666; font-size: 11px;"&gt;ratings&lt;/span&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;Time:&lt;/span&gt;
+&lt;span style="color: #000000; font-size: 11px; font-weight: bold;"&gt;00:43&lt;/span&gt;&lt;/td&gt;
+&lt;td style="font-size: 11px; padding-left: 20px;"&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;More in&lt;/span&gt;
+&lt;a href="http://www.youtube.com/videos?c=22"&gt;People &amp;amp; Blogs&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;</content>
+        <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=YHu9du-6eTA&amp;feature=youtube_gdata" />
+        <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/base/users/mrdowns/newsubscriptionvideos/YHu9du-6eTA" />
+        <author>
+            <name>C0nc0rdance</name>
+            <uri>http://gdata.youtube.com/feeds/base/users/C0nc0rdance</uri>
+        </author>
+    </entry>
+    <entry>
+        <id>http://gdata.youtube.com/feeds/base/videos/AX2iTAICNpc</id>
+        <published>2012-02-15T22:13:02.000Z</published>
+        <updated>2012-02-17T03:21:20.000Z</updated>
+        <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video" />
+        <title type="text">The Attack of the THEOCRATS!</title>
+        <content type="html">&lt;div style="color: #000000;font-family: Arial, Helvetica, sans-serif;     font-size:12px; font-size: 12px; width: 555px;"&gt;
+&lt;table cellspacing="0" cellpadding="0" border="0"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td width="140" valign="top" rowspan="2"&gt;&lt;div style="border: 1px solid #999999; margin: 0px 10px 5px 0px;"&gt;&lt;a href="http://www.youtube.com/watch?v=AX2iTAICNpc&amp;amp;feature=youtube_gdata"&gt;&lt;img alt="" src="http://i.ytimg.com/vi/AX2iTAICNpc/0.jpg"&gt;&lt;/a&gt;&lt;/div&gt;&lt;/td&gt;
+&lt;td width="256" valign="top"&gt;&lt;div style="font-size: 12px; font-weight: bold;"&gt;&lt;a style="font-size: 15px; font-weight: bold;                  font-decoration: none;" href="http://www.youtube.com/watch?v=AX2iTAICNpc&amp;amp;feature=youtube_gdata"&gt;The Attack of the THEOCRATS!&lt;/a&gt;
+&lt;br&gt;&lt;/div&gt;
+&lt;div style="font-size: 12px; margin: 3px 0px;"&gt;&lt;span&gt;A video summary of Attack of the Theocrats can be found here:
+http://richarddawkins.net/videos/643595-update-19-dec-video-chapter-6-sean-faircloth-discusses-his-new-book-attack-of-the-theocrats
+
+and here:
+http://richarddawkins.net/audio/644959-sean-faircloth-on-the-religious-right-the-attack-of-the-theocrats
+
+A review of &amp;#39;Attack of the Theocrats&amp;#39; can be found on friedlytheist at:
+http://www.patheos.com/blogs/friendlyatheist/2012/02/15/attack-of-the-theocrats-a-review/
+
+On Amazon at:
+http://www.amazon.com/Attack-Theocrats-Religious-Right-Harms/dp/0984493247
+
+Sean Faircloth is Director of Strategy and Policy at the Richard Dawkins Foundation.
+
+I get nothing out of promoting this book.  I promote it as I think it is the way forward.&lt;/span&gt;&lt;/div&gt;&lt;/td&gt;
+&lt;td style="font-size: 11px; line-height: 1.4em; padding-left: 20px;             padding-top: 1px;" width="146" valign="top"&gt;&lt;div&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;From:&lt;/span&gt;
+&lt;a href="http://www.youtube.com/profile?user=Thunderf00t"&gt;Thunderf00t&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;Views:&lt;/span&gt;
+18764&lt;/div&gt;
+&lt;div style="white-space: nowrap;text-align: left"&gt;&lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_half_11x11.gif"&gt;&lt;/div&gt;
+&lt;div style="font-size: 11px;"&gt;2141
+&lt;span style="color: #666666; font-size: 11px;"&gt;ratings&lt;/span&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;Time:&lt;/span&gt;
+&lt;span style="color: #000000; font-size: 11px; font-weight: bold;"&gt;02:58&lt;/span&gt;&lt;/td&gt;
+&lt;td style="font-size: 11px; padding-left: 20px;"&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;More in&lt;/span&gt;
+&lt;a href="http://www.youtube.com/videos?c=29"&gt;Nonprofits &amp;amp; Activism&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;</content>
+        <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=AX2iTAICNpc&amp;feature=youtube_gdata" />
+        <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/base/users/mrdowns/newsubscriptionvideos/AX2iTAICNpc" />
+        <author>
+            <name>Thunderf00t</name>
+            <uri>http://gdata.youtube.com/feeds/base/users/Thunderf00t</uri>
+        </author>
+    </entry>
+    <entry>
+        <id>http://gdata.youtube.com/feeds/base/videos/uLvNBB5kyY8</id>
+        <published>2012-02-15T21:18:07.000Z</published>
+        <updated>2012-02-17T03:24:07.000Z</updated>
+        <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video" />
+        <title type="text">Minecraft - Higher Worlds! (Patch 1.2 pre-release 07b)</title>
+        <content type="html">&lt;div style="color: #000000;font-family: Arial, Helvetica, sans-serif;     font-size:12px; font-size: 12px; width: 555px;"&gt;
+&lt;table cellspacing="0" cellpadding="0" border="0"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td width="140" valign="top" rowspan="2"&gt;&lt;div style="border: 1px solid #999999; margin: 0px 10px 5px 0px;"&gt;&lt;a href="http://www.youtube.com/watch?v=uLvNBB5kyY8&amp;amp;feature=youtube_gdata"&gt;&lt;img alt="" src="http://i.ytimg.com/vi/uLvNBB5kyY8/0.jpg"&gt;&lt;/a&gt;&lt;/div&gt;&lt;/td&gt;
+&lt;td width="256" valign="top"&gt;&lt;div style="font-size: 12px; font-weight: bold;"&gt;&lt;a style="font-size: 15px; font-weight: bold;                  font-decoration: none;" href="http://www.youtube.com/watch?v=uLvNBB5kyY8&amp;amp;feature=youtube_gdata"&gt;Minecraft - Higher Worlds! (Patch 1.2 pre-release 07b)&lt;/a&gt;
+&lt;br&gt;&lt;/div&gt;
+&lt;div style="font-size: 12px; margin: 3px 0px;"&gt;&lt;span&gt;Doubling the world height will mean three times more space to build above ground! 
+
+Many thanks to TheVoxelBox guys for demonstrating just how awesome this is :) http://www.youtube.com/user/VoxelBoxVideos
+
+&amp;#9679; Yogscast Gear: http://yogscast.spreadshirt.co.uk/
+&amp;#9679; Facebook: http://www.facebook.com/yogscast
+&amp;#9679; Twitter: http://www.twitter.com/yogscast
+&amp;#9679; Forums: http://yogscast.com/forum.php
+&amp;#9679; Podcast: http://itunes.apple.com/gb/podcast/the-yogpod/id304557271&lt;/span&gt;&lt;/div&gt;&lt;/td&gt;
+&lt;td style="font-size: 11px; line-height: 1.4em; padding-left: 20px;             padding-top: 1px;" width="146" valign="top"&gt;&lt;div&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;From:&lt;/span&gt;
+&lt;a href="http://www.youtube.com/profile?user=BlueXephos"&gt;BlueXephos&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;Views:&lt;/span&gt;
+494270&lt;/div&gt;
+&lt;div style="white-space: nowrap;text-align: left"&gt;&lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_half_11x11.gif"&gt;&lt;/div&gt;
+&lt;div style="font-size: 11px;"&gt;7845
+&lt;span style="color: #666666; font-size: 11px;"&gt;ratings&lt;/span&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;Time:&lt;/span&gt;
+&lt;span style="color: #000000; font-size: 11px; font-weight: bold;"&gt;06:28&lt;/span&gt;&lt;/td&gt;
+&lt;td style="font-size: 11px; padding-left: 20px;"&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;More in&lt;/span&gt;
+&lt;a href="http://www.youtube.com/videos?c=43"&gt;Shows&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;</content>
+        <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=uLvNBB5kyY8&amp;feature=youtube_gdata" />
+        <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/base/users/mrdowns/newsubscriptionvideos/uLvNBB5kyY8" />
+        <author>
+            <name>BlueXephos</name>
+            <uri>http://gdata.youtube.com/feeds/base/users/BlueXephos</uri>
+        </author>
+    </entry>
+    <entry>
+        <id>http://gdata.youtube.com/feeds/base/videos/Hz_zx47eix0</id>
+        <published>2012-02-15T20:15:52.000Z</published>
+        <updated>2012-02-17T03:24:24.000Z</updated>
+        <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video" />
+        <title type="text">Minecraft - Zombie Invasions &amp; Villager Children (Patch 1.2 pre-release 07b)</title>
+        <content type="html">&lt;div style="color: #000000;font-family: Arial, Helvetica, sans-serif;     font-size:12px; font-size: 12px; width: 555px;"&gt;
+&lt;table cellspacing="0" cellpadding="0" border="0"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td width="140" valign="top" rowspan="2"&gt;&lt;div style="border: 1px solid #999999; margin: 0px 10px 5px 0px;"&gt;&lt;a href="http://www.youtube.com/watch?v=Hz_zx47eix0&amp;amp;feature=youtube_gdata"&gt;&lt;img alt="" src="http://i.ytimg.com/vi/Hz_zx47eix0/0.jpg"&gt;&lt;/a&gt;&lt;/div&gt;&lt;/td&gt;
+&lt;td width="256" valign="top"&gt;&lt;div style="font-size: 12px; font-weight: bold;"&gt;&lt;a style="font-size: 15px; font-weight: bold;                  font-decoration: none;" href="http://www.youtube.com/watch?v=Hz_zx47eix0&amp;amp;feature=youtube_gdata"&gt;Minecraft - Zombie Invasions &amp;amp; Villager Children (Patch 1.2 pre-release 07b)&lt;/a&gt;
+&lt;br&gt;&lt;/div&gt;
+&lt;div style="font-size: 12px; margin: 3px 0px;"&gt;&lt;span&gt;The new pre-release snapshot shows that it&amp;#39;s no longer safe in the testificate villages at night, and in order to repopulate the villages, the testificates can make sweet sweet love! Party time for snapshot12w07b !
+
+&amp;#9679; Yogscast Gear: http://yogscast.spreadshirt.co.uk/
+&amp;#9679; Facebook: http://www.facebook.com/yogscast
+&amp;#9679; Twitter: http://www.twitter.com/yogscast
+&amp;#9679; Forums: http://yogscast.com/forum.php
+&amp;#9679; Podcast: http://itunes.apple.com/gb/podcast/the-yogpod/id304557271&lt;/span&gt;&lt;/div&gt;&lt;/td&gt;
+&lt;td style="font-size: 11px; line-height: 1.4em; padding-left: 20px;             padding-top: 1px;" width="146" valign="top"&gt;&lt;div&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;From:&lt;/span&gt;
+&lt;a href="http://www.youtube.com/profile?user=BlueXephos"&gt;BlueXephos&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;Views:&lt;/span&gt;
+422843&lt;/div&gt;
+&lt;div style="white-space: nowrap;text-align: left"&gt;&lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_half_11x11.gif"&gt;&lt;/div&gt;
+&lt;div style="font-size: 11px;"&gt;5844
+&lt;span style="color: #666666; font-size: 11px;"&gt;ratings&lt;/span&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;Time:&lt;/span&gt;
+&lt;span style="color: #000000; font-size: 11px; font-weight: bold;"&gt;08:27&lt;/span&gt;&lt;/td&gt;
+&lt;td style="font-size: 11px; padding-left: 20px;"&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;More in&lt;/span&gt;
+&lt;a href="http://www.youtube.com/videos?c=43"&gt;Shows&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;</content>
+        <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=Hz_zx47eix0&amp;feature=youtube_gdata" />
+        <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/base/users/mrdowns/newsubscriptionvideos/Hz_zx47eix0" />
+        <author>
+            <name>BlueXephos</name>
+            <uri>http://gdata.youtube.com/feeds/base/users/BlueXephos</uri>
+        </author>
+    </entry>
+    <entry>
+        <id>http://gdata.youtube.com/feeds/base/videos/NGBIX6T1m20</id>
+        <published>2012-02-15T18:56:07.000Z</published>
+        <updated>2012-02-17T03:23:46.000Z</updated>
+        <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video" />
+        <title type="text">James Randi at the Magic Castle: In Conversation with Max Maven, Part 2</title>
+        <content type="html">&lt;div style="color: #000000;font-family: Arial, Helvetica, sans-serif;     font-size:12px; font-size: 12px; width: 555px;"&gt;
+&lt;table cellspacing="0" cellpadding="0" border="0"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td width="140" valign="top" rowspan="2"&gt;&lt;div style="border: 1px solid #999999; margin: 0px 10px 5px 0px;"&gt;&lt;a href="http://www.youtube.com/watch?v=NGBIX6T1m20&amp;amp;feature=youtube_gdata"&gt;&lt;img alt="" src="http://i.ytimg.com/vi/NGBIX6T1m20/0.jpg"&gt;&lt;/a&gt;&lt;/div&gt;&lt;/td&gt;
+&lt;td width="256" valign="top"&gt;&lt;div style="font-size: 12px; font-weight: bold;"&gt;&lt;a style="font-size: 15px; font-weight: bold;                  font-decoration: none;" href="http://www.youtube.com/watch?v=NGBIX6T1m20&amp;amp;feature=youtube_gdata"&gt;James Randi at the Magic Castle: In Conversation with Max Maven, Part 2&lt;/a&gt;
+&lt;br&gt;&lt;/div&gt;
+&lt;div style="font-size: 12px; margin: 3px 0px;"&gt;&lt;span&gt;On January 16, 2012 in Hollywood, California, James Randi had a second on-stage conversation with Max Maven at the World Famous Magic Castle, in front of a standing-room-only audience. This is a recording of that event.&lt;/span&gt;&lt;/div&gt;&lt;/td&gt;
+&lt;td style="font-size: 11px; line-height: 1.4em; padding-left: 20px;             padding-top: 1px;" width="146" valign="top"&gt;&lt;div&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;From:&lt;/span&gt;
+&lt;a href="http://www.youtube.com/profile?user=JamesRandiFoundation"&gt;JamesRandiFoundation&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;Views:&lt;/span&gt;
+1497&lt;/div&gt;
+&lt;div style="white-space: nowrap;text-align: left"&gt;&lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_half_11x11.gif"&gt;&lt;/div&gt;
+&lt;div style="font-size: 11px;"&gt;114
+&lt;span style="color: #666666; font-size: 11px;"&gt;ratings&lt;/span&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;Time:&lt;/span&gt;
+&lt;span style="color: #000000; font-size: 11px; font-weight: bold;"&gt;01:28:54&lt;/span&gt;&lt;/td&gt;
+&lt;td style="font-size: 11px; padding-left: 20px;"&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;More in&lt;/span&gt;
+&lt;a href="http://www.youtube.com/videos?c=27"&gt;Education&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;</content>
+        <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=NGBIX6T1m20&amp;feature=youtube_gdata" />
+        <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/base/users/mrdowns/newsubscriptionvideos/NGBIX6T1m20" />
+        <author>
+            <name>JamesRandiFoundation</name>
+            <uri>http://gdata.youtube.com/feeds/base/users/JamesRandiFoundation</uri>
+        </author>
+    </entry>
+    <entry>
+        <id>http://gdata.youtube.com/feeds/base/videos/ennCbtN6XEc</id>
+        <published>2012-02-15T16:12:49.000Z</published>
+        <updated>2012-02-17T03:08:49.000Z</updated>
+        <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video" />
+        <title type="text">"Romney is an echo, not a choice when it comes to Obama" - Nick Gillespie on Freedom Watch</title>
+        <content type="html">&lt;div style="color: #000000;font-family: Arial, Helvetica, sans-serif;     font-size:12px; font-size: 12px; width: 555px;"&gt;
+&lt;table cellspacing="0" cellpadding="0" border="0"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td width="140" valign="top" rowspan="2"&gt;&lt;div style="border: 1px solid #999999; margin: 0px 10px 5px 0px;"&gt;&lt;a href="http://www.youtube.com/watch?v=ennCbtN6XEc&amp;amp;feature=youtube_gdata"&gt;&lt;img alt="" src="http://i.ytimg.com/vi/ennCbtN6XEc/0.jpg"&gt;&lt;/a&gt;&lt;/div&gt;&lt;/td&gt;
+&lt;td width="256" valign="top"&gt;&lt;div style="font-size: 12px; font-weight: bold;"&gt;&lt;a style="font-size: 15px; font-weight: bold;                  font-decoration: none;" href="http://www.youtube.com/watch?v=ennCbtN6XEc&amp;amp;feature=youtube_gdata"&gt;&amp;quot;Romney is an echo, not a choice when it comes to Obama&amp;quot; - Nick Gillespie on Freedom Watch&lt;/a&gt;
+&lt;br&gt;&lt;/div&gt;
+&lt;div style="font-size: 12px; margin: 3px 0px;"&gt;&lt;span&gt;Reason.tv editor in chief Nick Gillespie appeared on Freedom Watch to discuss the love/hate relationship Republicans has with Mitt Romney and whether Ron Paul can challenge the future status quo of the GOP. Air Date: February 13, 2012.
+
+3.47 minutes.
+
+Go to Reason.tv for downloadable versions and subscribe to Reason.tv&amp;#39;s YouTube channel to receive automatic notifications when new material goes live.&lt;/span&gt;&lt;/div&gt;&lt;/td&gt;
+&lt;td style="font-size: 11px; line-height: 1.4em; padding-left: 20px;             padding-top: 1px;" width="146" valign="top"&gt;&lt;div&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;From:&lt;/span&gt;
+&lt;a href="http://www.youtube.com/profile?user=ReasonTV"&gt;ReasonTV&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;Views:&lt;/span&gt;
+2728&lt;/div&gt;
+&lt;div style="white-space: nowrap;text-align: left"&gt;&lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_half_11x11.gif"&gt;&lt;/div&gt;
+&lt;div style="font-size: 11px;"&gt;149
+&lt;span style="color: #666666; font-size: 11px;"&gt;ratings&lt;/span&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;Time:&lt;/span&gt;
+&lt;span style="color: #000000; font-size: 11px; font-weight: bold;"&gt;03:47&lt;/span&gt;&lt;/td&gt;
+&lt;td style="font-size: 11px; padding-left: 20px;"&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;More in&lt;/span&gt;
+&lt;a href="http://www.youtube.com/videos?c=25"&gt;News &amp;amp; Politics&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;</content>
+        <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=ennCbtN6XEc&amp;feature=youtube_gdata" />
+        <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/base/users/mrdowns/newsubscriptionvideos/ennCbtN6XEc" />
+        <author>
+            <name>ReasonTV</name>
+            <uri>http://gdata.youtube.com/feeds/base/users/ReasonTV</uri>
+        </author>
+    </entry>
+    <entry>
+        <id>http://gdata.youtube.com/feeds/base/videos/JtTPrKiereo</id>
+        <published>2012-02-15T14:36:46.000Z</published>
+        <updated>2012-02-17T00:41:02.000Z</updated>
+        <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video" />
+        <title type="text">Former MTV VJ Kennedy on Her Libertarian Evolution</title>
+        <content type="html">&lt;div style="color: #000000;font-family: Arial, Helvetica, sans-serif;     font-size:12px; font-size: 12px; width: 555px;"&gt;
+&lt;table cellspacing="0" cellpadding="0" border="0"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td width="140" valign="top" rowspan="2"&gt;&lt;div style="border: 1px solid #999999; margin: 0px 10px 5px 0px;"&gt;&lt;a href="http://www.youtube.com/watch?v=JtTPrKiereo&amp;amp;feature=youtube_gdata"&gt;&lt;img alt="" src="http://i.ytimg.com/vi/JtTPrKiereo/0.jpg"&gt;&lt;/a&gt;&lt;/div&gt;&lt;/td&gt;
+&lt;td width="256" valign="top"&gt;&lt;div style="font-size: 12px; font-weight: bold;"&gt;&lt;a style="font-size: 15px; font-weight: bold;                  font-decoration: none;" href="http://www.youtube.com/watch?v=JtTPrKiereo&amp;amp;feature=youtube_gdata"&gt;Former MTV VJ Kennedy on Her Libertarian Evolution&lt;/a&gt;
+&lt;br&gt;&lt;/div&gt;
+&lt;div style="font-size: 12px; margin: 3px 0px;"&gt;&lt;span&gt;As current drive time radio host on KYSR in Los Angeles and former MTV VJ Kennedy explains it, early reactions to her political leanings were pretty consistent. &amp;quot;Your name is Kennedy, and you&amp;#39;re a Republican, and you&amp;#39;re on MTV? What?!&amp;quot; 
+
+At Reason Weekend 2012, Reason Foundation&amp;#39;s annual donor event, Kennedy sat down with Reason&amp;#39;s Nick Gillespie to discuss her transformation from Dan Quayle fetishist to hardcore libertarian, a Republican tattoo, and her recent fight with HBO&amp;#39;s Bill Maher over atheism. 
+
+About 28 minutes. Filmed by Joshua Swain and Anthony Fisher. Edited by Meredith Bragg. 
+
+Go to Reason.tv for downloadable versions and subscribe to Reason.tv&amp;#39;s YouTube channel to receive automatic notifications when new material goes live.&lt;/span&gt;&lt;/div&gt;&lt;/td&gt;
+&lt;td style="font-size: 11px; line-height: 1.4em; padding-left: 20px;             padding-top: 1px;" width="146" valign="top"&gt;&lt;div&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;From:&lt;/span&gt;
+&lt;a href="http://www.youtube.com/profile?user=ReasonTV"&gt;ReasonTV&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;Views:&lt;/span&gt;
+3953&lt;/div&gt;
+&lt;div style="white-space: nowrap;text-align: left"&gt;&lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_half_11x11.gif"&gt;&lt;/div&gt;
+&lt;div style="font-size: 11px;"&gt;136
+&lt;span style="color: #666666; font-size: 11px;"&gt;ratings&lt;/span&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;Time:&lt;/span&gt;
+&lt;span style="color: #000000; font-size: 11px; font-weight: bold;"&gt;28:22&lt;/span&gt;&lt;/td&gt;
+&lt;td style="font-size: 11px; padding-left: 20px;"&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;More in&lt;/span&gt;
+&lt;a href="http://www.youtube.com/videos?c=25"&gt;News &amp;amp; Politics&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;</content>
+        <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=JtTPrKiereo&amp;feature=youtube_gdata" />
+        <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/base/users/mrdowns/newsubscriptionvideos/JtTPrKiereo" />
+        <author>
+            <name>ReasonTV</name>
+            <uri>http://gdata.youtube.com/feeds/base/users/ReasonTV</uri>
+        </author>
+    </entry>
+    <entry>
+        <id>http://gdata.youtube.com/feeds/base/videos/QwWbpPH_000</id>
+        <published>2012-02-15T03:15:10.000Z</published>
+        <updated>2012-02-17T03:03:06.000Z</updated>
+        <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video" />
+        <title type="text">Parenting and Credibility - Or, how to avoid shooting your daughter's laptop</title>
+        <content type="html">&lt;div style="color: #000000;font-family: Arial, Helvetica, sans-serif;     font-size:12px; font-size: 12px; width: 555px;"&gt;
+&lt;table cellspacing="0" cellpadding="0" border="0"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td width="140" valign="top" rowspan="2"&gt;&lt;div style="border: 1px solid #999999; margin: 0px 10px 5px 0px;"&gt;&lt;a href="http://www.youtube.com/watch?v=QwWbpPH_000&amp;amp;feature=youtube_gdata"&gt;&lt;img alt="" src="http://i.ytimg.com/vi/QwWbpPH_000/0.jpg"&gt;&lt;/a&gt;&lt;/div&gt;&lt;/td&gt;
+&lt;td width="256" valign="top"&gt;&lt;div style="font-size: 12px; font-weight: bold;"&gt;&lt;a style="font-size: 15px; font-weight: bold;                  font-decoration: none;" href="http://www.youtube.com/watch?v=QwWbpPH_000&amp;amp;feature=youtube_gdata"&gt;Parenting and Credibility - Or, how to avoid shooting your daughter&amp;#39;s laptop&lt;/a&gt;
+&lt;br&gt;&lt;/div&gt;
+&lt;div style="font-size: 12px; margin: 3px 0px;"&gt;&lt;span&gt;Freedomain Radio is the largest and most popular philosophy show on the web - http://www.freedomainradio.com
+Shows on Philosophical Parenting: http://feeds.feedburner.com/PhilosophicalParenting&lt;/span&gt;&lt;/div&gt;&lt;/td&gt;
+&lt;td style="font-size: 11px; line-height: 1.4em; padding-left: 20px;             padding-top: 1px;" width="146" valign="top"&gt;&lt;div&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;From:&lt;/span&gt;
+&lt;a href="http://www.youtube.com/profile?user=stefbot"&gt;stefbot&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;Views:&lt;/span&gt;
+3337&lt;/div&gt;
+&lt;div style="white-space: nowrap;text-align: left"&gt;&lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_half_11x11.gif"&gt;&lt;/div&gt;
+&lt;div style="font-size: 11px;"&gt;226
+&lt;span style="color: #666666; font-size: 11px;"&gt;ratings&lt;/span&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;Time:&lt;/span&gt;
+&lt;span style="color: #000000; font-size: 11px; font-weight: bold;"&gt;14:21&lt;/span&gt;&lt;/td&gt;
+&lt;td style="font-size: 11px; padding-left: 20px;"&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;More in&lt;/span&gt;
+&lt;a href="http://www.youtube.com/videos?c=27"&gt;Education&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;</content>
+        <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=QwWbpPH_000&amp;feature=youtube_gdata" />
+        <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/base/users/mrdowns/newsubscriptionvideos/QwWbpPH_000" />
+        <author>
+            <name>stefbot</name>
+            <uri>http://gdata.youtube.com/feeds/base/users/stefbot</uri>
+        </author>
+    </entry>
+    <entry>
+        <id>http://gdata.youtube.com/feeds/base/videos/5Ra0qdwMLdg</id>
+        <published>2012-02-15T00:29:49.000Z</published>
+        <updated>2012-02-16T23:27:56.000Z</updated>
+        <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video" />
+        <title type="text">Matt Welch Discusses Rick Santorum's Anti-Libertarian Beliefs on Freedom Watch</title>
+        <content type="html">&lt;div style="color: #000000;font-family: Arial, Helvetica, sans-serif;     font-size:12px; font-size: 12px; width: 555px;"&gt;
+&lt;table cellspacing="0" cellpadding="0" border="0"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td width="140" valign="top" rowspan="2"&gt;&lt;div style="border: 1px solid #999999; margin: 0px 10px 5px 0px;"&gt;&lt;a href="http://www.youtube.com/watch?v=5Ra0qdwMLdg&amp;amp;feature=youtube_gdata"&gt;&lt;img alt="" src="http://i.ytimg.com/vi/5Ra0qdwMLdg/0.jpg"&gt;&lt;/a&gt;&lt;/div&gt;&lt;/td&gt;
+&lt;td width="256" valign="top"&gt;&lt;div style="font-size: 12px; font-weight: bold;"&gt;&lt;a style="font-size: 15px; font-weight: bold;                  font-decoration: none;" href="http://www.youtube.com/watch?v=5Ra0qdwMLdg&amp;amp;feature=youtube_gdata"&gt;Matt Welch Discusses Rick Santorum&amp;#39;s Anti-Libertarian Beliefs on Freedom Watch&lt;/a&gt;
+&lt;br&gt;&lt;/div&gt;
+&lt;div style="font-size: 12px; margin: 3px 0px;"&gt;&lt;span&gt;Reason Magazine Editor in Chief Matt Welch appeared on Freedom Watch With Judge Napolitano to discuss presidential candidate Rick Santorum&amp;#39;s anti-libertarian rhetoric. Air Date: February 10, 2012. 
+
+Approximately 4 minutes.
+
+Scroll down for downloadable versions and subscribe to Reason.tv&amp;#39;s YouTube channel to receive automatic notification when new material goes live.&lt;/span&gt;&lt;/div&gt;&lt;/td&gt;
+&lt;td style="font-size: 11px; line-height: 1.4em; padding-left: 20px;             padding-top: 1px;" width="146" valign="top"&gt;&lt;div&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;From:&lt;/span&gt;
+&lt;a href="http://www.youtube.com/profile?user=ReasonTV"&gt;ReasonTV&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;Views:&lt;/span&gt;
+4048&lt;/div&gt;
+&lt;div style="white-space: nowrap;text-align: left"&gt;&lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_half_11x11.gif"&gt;&lt;/div&gt;
+&lt;div style="font-size: 11px;"&gt;171
+&lt;span style="color: #666666; font-size: 11px;"&gt;ratings&lt;/span&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;Time:&lt;/span&gt;
+&lt;span style="color: #000000; font-size: 11px; font-weight: bold;"&gt;04:01&lt;/span&gt;&lt;/td&gt;
+&lt;td style="font-size: 11px; padding-left: 20px;"&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;More in&lt;/span&gt;
+&lt;a href="http://www.youtube.com/videos?c=25"&gt;News &amp;amp; Politics&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;</content>
+        <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=5Ra0qdwMLdg&amp;feature=youtube_gdata" />
+        <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/base/users/mrdowns/newsubscriptionvideos/5Ra0qdwMLdg" />
+        <author>
+            <name>ReasonTV</name>
+            <uri>http://gdata.youtube.com/feeds/base/users/ReasonTV</uri>
+        </author>
+    </entry>
+    <entry>
+        <id>http://gdata.youtube.com/feeds/base/videos/-b6gV8Fr3Qk</id>
+        <published>2012-02-14T23:09:23.000Z</published>
+        <updated>2012-02-17T03:24:06.000Z</updated>
+        <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video" />
+        <title type="text">Minecraft - "Shadow of Israphel" Part 36: The Last Letter</title>
+        <content type="html">&lt;div style="color: #000000;font-family: Arial, Helvetica, sans-serif;     font-size:12px; font-size: 12px; width: 555px;"&gt;
+&lt;table cellspacing="0" cellpadding="0" border="0"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td width="140" valign="top" rowspan="2"&gt;&lt;div style="border: 1px solid #999999; margin: 0px 10px 5px 0px;"&gt;&lt;a href="http://www.youtube.com/watch?v=-b6gV8Fr3Qk&amp;amp;feature=youtube_gdata"&gt;&lt;img alt="" src="http://i.ytimg.com/vi/-b6gV8Fr3Qk/0.jpg"&gt;&lt;/a&gt;&lt;/div&gt;&lt;/td&gt;
+&lt;td width="256" valign="top"&gt;&lt;div style="font-size: 12px; font-weight: bold;"&gt;&lt;a style="font-size: 15px; font-weight: bold;                  font-decoration: none;" href="http://www.youtube.com/watch?v=-b6gV8Fr3Qk&amp;amp;feature=youtube_gdata"&gt;Minecraft - &amp;quot;Shadow of Israphel&amp;quot; Part 36: The Last Letter&lt;/a&gt;
+&lt;br&gt;&lt;/div&gt;
+&lt;div style="font-size: 12px; margin: 3px 0px;"&gt;&lt;span&gt;A terrible discovery at Lastwatch Hold warns of a catastrophic failure of the wall  that holds back the desert. With time running out, our heroes must find their way back to Verigan&amp;#39;s Hold, and seek Adaephon&amp;#39;s help to decipher the mysterious map...
+
+&amp;#9834; Musical cues by Daniel Yount: 
+http://itunes.apple.com/us/album/the-yogscast-shadow-israphel/id493044333
+http://danielyount.bandcamp.com/album/the-yogscast-shadow-of-israphel-soundtrack-vol-2
+
+The secret of chat bubbles in Minecraft! http://www.youtube.com/watch?v=RIDLP8_GFRc
+
+&amp;#9679; Yogscast Gear: http://yogscast.spreadshirt.co.uk/
+&amp;#9679; Facebook: http://www.facebook.com/yogscast
+&amp;#9679; Twitter: http://www.twitter.com/yogscast
+&amp;#9679; Forums: http://yogscast.com/forum.php
+&amp;#9679; Podcast: http://itunes.apple.com/gb/podcast/the-yogpod/id304557271&lt;/span&gt;&lt;/div&gt;&lt;/td&gt;
+&lt;td style="font-size: 11px; line-height: 1.4em; padding-left: 20px;             padding-top: 1px;" width="146" valign="top"&gt;&lt;div&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;From:&lt;/span&gt;
+&lt;a href="http://www.youtube.com/profile?user=BlueXephos"&gt;BlueXephos&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;Views:&lt;/span&gt;
+992414&lt;/div&gt;
+&lt;div style="white-space: nowrap;text-align: left"&gt;&lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_half_11x11.gif"&gt;&lt;/div&gt;
+&lt;div style="font-size: 11px;"&gt;21554
+&lt;span style="color: #666666; font-size: 11px;"&gt;ratings&lt;/span&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;Time:&lt;/span&gt;
+&lt;span style="color: #000000; font-size: 11px; font-weight: bold;"&gt;23:05&lt;/span&gt;&lt;/td&gt;
+&lt;td style="font-size: 11px; padding-left: 20px;"&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;More in&lt;/span&gt;
+&lt;a href="http://www.youtube.com/videos?c=43"&gt;Shows&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;</content>
+        <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=-b6gV8Fr3Qk&amp;feature=youtube_gdata" />
+        <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/base/users/mrdowns/newsubscriptionvideos/-b6gV8Fr3Qk" />
+        <author>
+            <name>BlueXephos</name>
+            <uri>http://gdata.youtube.com/feeds/base/users/BlueXephos</uri>
+        </author>
+    </entry>
+    <entry>
+        <id>http://gdata.youtube.com/feeds/base/videos/gH9UvnrARf8</id>
+        <published>2012-02-14T16:52:49.000Z</published>
+        <updated>2012-02-17T03:23:40.000Z</updated>
+        <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video" />
+        <title type="text">Something From Nothing - a conversation w/ Richard Dawkins &amp; Lawrence Krauss - ASU Feb 4, 2012</title>
+        <content type="html">&lt;div style="color: #000000;font-family: Arial, Helvetica, sans-serif;     font-size:12px; font-size: 12px; width: 555px;"&gt;
+&lt;table cellspacing="0" cellpadding="0" border="0"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td width="140" valign="top" rowspan="2"&gt;&lt;div style="border: 1px solid #999999; margin: 0px 10px 5px 0px;"&gt;&lt;a href="http://www.youtube.com/watch?v=gH9UvnrARf8&amp;amp;feature=youtube_gdata"&gt;&lt;img alt="" src="http://i.ytimg.com/vi/gH9UvnrARf8/0.jpg"&gt;&lt;/a&gt;&lt;/div&gt;&lt;/td&gt;
+&lt;td width="256" valign="top"&gt;&lt;div style="font-size: 12px; font-weight: bold;"&gt;&lt;a style="font-size: 15px; font-weight: bold;                  font-decoration: none;" href="http://www.youtube.com/watch?v=gH9UvnrARf8&amp;amp;feature=youtube_gdata"&gt;Something From Nothing - a conversation w/ Richard Dawkins &amp;amp; Lawrence Krauss - ASU Feb 4, 2012&lt;/a&gt;
+&lt;br&gt;&lt;/div&gt;
+&lt;div style="font-size: 12px; margin: 3px 0px;"&gt;&lt;span&gt;The Richard Dawkins Foundation for Reason and Science (http://richarddawkins.net/)
+Taped live on Feb 4, 2012 by http://www.youtube.com/user/ShirleyFilms
+In conjunction with the Origins Project at ASU  http://origins.asu.edu/
+- Show quoted text -
+
+(there are still some edits and color correction to be done but we wanted to have the YouTube version out as soon as possible)
+
+Join critically-acclaimed author and evolutionary biologist Richard Dawkins and world-renowned theoretical physicist and author Lawrence Krauss as they discuss biology, cosmology, religion, and a host of other topics. 
+
+The authors will also discuss their new books. Dawkins recently published The Magic of Reality: How We Know What&amp;#39;s Really True, an exploration of the magic of discovery embodied in the practice of science. Written for all age groups, the book moves forward from historical examples of supernatural explanations of natural phenomena to focus on the actual science behind how the world works.
+
+Krauss&amp;#39;s latest book, A Universe from Nothing: Why There is Something Rather than Nothing, explains the scientific advances that provide insight into how the universe formed. Krauss tackles the age-old assumption that something cannot arise from nothing by arguing that not only can something arise from nothing, but something will always arise from nothing.
+
+Founded in 2008, the ASU Origins Project is a university-wide transdisciplinary initiative aimed at facilitating cutting edge research and inquiry about origins questions, enhancing public science literacy, and improving science education. Since its inception, the Origins Project has brought the world&amp;#39;s leading scientists, including Nobel Prize winners, to Tempe to explore origins questions. The Origins Project has hosted workshops and public events that have focused on questions as fundamental as the origin of the universe, how life began, the origins of human uniqueness, and the origins of morality.&lt;/span&gt;&lt;/div&gt;&lt;/td&gt;
+&lt;td style="font-size: 11px; line-height: 1.4em; padding-left: 20px;             padding-top: 1px;" width="146" valign="top"&gt;&lt;div&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;From:&lt;/span&gt;
+&lt;a href="http://www.youtube.com/profile?user=richarddawkinsdotnet"&gt;richarddawkinsdotnet&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;Views:&lt;/span&gt;
+30271&lt;/div&gt;
+&lt;div style="white-space: nowrap;text-align: left"&gt;&lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_half_11x11.gif"&gt;&lt;/div&gt;
+&lt;div style="font-size: 11px;"&gt;2458
+&lt;span style="color: #666666; font-size: 11px;"&gt;ratings&lt;/span&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;Time:&lt;/span&gt;
+&lt;span style="color: #000000; font-size: 11px; font-weight: bold;"&gt;02:00:23&lt;/span&gt;&lt;/td&gt;
+&lt;td style="font-size: 11px; padding-left: 20px;"&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;More in&lt;/span&gt;
+&lt;a href="http://www.youtube.com/videos?c=28"&gt;Science &amp;amp; Technology&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;</content>
+        <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=gH9UvnrARf8&amp;feature=youtube_gdata" />
+        <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/base/users/mrdowns/newsubscriptionvideos/gH9UvnrARf8" />
+        <author>
+            <name>richarddawkinsdotnet</name>
+            <uri>http://gdata.youtube.com/feeds/base/users/richarddawkinsdotnet</uri>
+        </author>
+    </entry>
+    <entry>
+        <id>http://gdata.youtube.com/feeds/base/videos/OZXdU4FiIcE</id>
+        <published>2012-02-14T15:06:07.000Z</published>
+        <updated>2012-02-17T01:40:23.000Z</updated>
+        <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video" />
+        <title type="text">Jim Rogers VPRO TV- 10 Feb 2012</title>
+        <content type="html">&lt;div style="color: #000000;font-family: Arial, Helvetica, sans-serif;     font-size:12px; font-size: 12px; width: 555px;"&gt;
+&lt;table cellspacing="0" cellpadding="0" border="0"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td width="140" valign="top" rowspan="2"&gt;&lt;div style="border: 1px solid #999999; margin: 0px 10px 5px 0px;"&gt;&lt;a href="http://www.youtube.com/watch?v=OZXdU4FiIcE&amp;amp;feature=youtube_gdata"&gt;&lt;img alt="" src="http://i.ytimg.com/vi/OZXdU4FiIcE/0.jpg"&gt;&lt;/a&gt;&lt;/div&gt;&lt;/td&gt;
+&lt;td width="256" valign="top"&gt;&lt;div style="font-size: 12px; font-weight: bold;"&gt;&lt;a style="font-size: 15px; font-weight: bold;                  font-decoration: none;" href="http://www.youtube.com/watch?v=OZXdU4FiIcE&amp;amp;feature=youtube_gdata"&gt;Jim Rogers VPRO TV- 10 Feb 2012&lt;/a&gt;
+&lt;br&gt;&lt;/div&gt;
+&lt;div style="font-size: 12px; margin: 3px 0px;"&gt;&lt;span&gt;Go to http://jimrogers1.blogspot.com for more Jim Rogers videos&lt;/span&gt;&lt;/div&gt;&lt;/td&gt;
+&lt;td style="font-size: 11px; line-height: 1.4em; padding-left: 20px;             padding-top: 1px;" width="146" valign="top"&gt;&lt;div&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;From:&lt;/span&gt;
+&lt;a href="http://www.youtube.com/profile?user=JimRogersChannel"&gt;JimRogersChannel&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;Views:&lt;/span&gt;
+4458&lt;/div&gt;
+&lt;div style="white-space: nowrap;text-align: left"&gt;&lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_empty_11x11.gif"&gt;&lt;/div&gt;
+&lt;div style="font-size: 11px;"&gt;45
+&lt;span style="color: #666666; font-size: 11px;"&gt;ratings&lt;/span&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;Time:&lt;/span&gt;
+&lt;span style="color: #000000; font-size: 11px; font-weight: bold;"&gt;02:50&lt;/span&gt;&lt;/td&gt;
+&lt;td style="font-size: 11px; padding-left: 20px;"&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;More in&lt;/span&gt;
+&lt;a href="http://www.youtube.com/videos?c=25"&gt;News &amp;amp; Politics&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;</content>
+        <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=OZXdU4FiIcE&amp;feature=youtube_gdata" />
+        <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/base/users/mrdowns/newsubscriptionvideos/OZXdU4FiIcE" />
+        <author>
+            <name>JimRogersChannel</name>
+            <uri>http://gdata.youtube.com/feeds/base/users/JimRogersChannel</uri>
+        </author>
+    </entry>
+    <entry>
+        <id>http://gdata.youtube.com/feeds/base/videos/oskwJGFR9eQ</id>
+        <published>2012-02-14T14:57:56.000Z</published>
+        <updated>2012-02-17T03:17:42.000Z</updated>
+        <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video" />
+        <title type="text">Maverick Brain Surgeon! - Comedy at LibertyFest West</title>
+        <content type="html">&lt;div style="color: #000000;font-family: Arial, Helvetica, sans-serif;     font-size:12px; font-size: 12px; width: 555px;"&gt;
+&lt;table cellspacing="0" cellpadding="0" border="0"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td width="140" valign="top" rowspan="2"&gt;&lt;div style="border: 1px solid #999999; margin: 0px 10px 5px 0px;"&gt;&lt;a href="http://www.youtube.com/watch?v=oskwJGFR9eQ&amp;amp;feature=youtube_gdata"&gt;&lt;img alt="" src="http://i.ytimg.com/vi/oskwJGFR9eQ/0.jpg"&gt;&lt;/a&gt;&lt;/div&gt;&lt;/td&gt;
+&lt;td width="256" valign="top"&gt;&lt;div style="font-size: 12px; font-weight: bold;"&gt;&lt;a style="font-size: 15px; font-weight: bold;                  font-decoration: none;" href="http://www.youtube.com/watch?v=oskwJGFR9eQ&amp;amp;feature=youtube_gdata"&gt;Maverick Brain Surgeon! - Comedy at LibertyFest West&lt;/a&gt;
+&lt;br&gt;&lt;/div&gt;
+&lt;div style="font-size: 12px; margin: 3px 0px;"&gt;&lt;span&gt;Stefan Molyneux, host of Freedomain Radio, cracks up the crowd with his libertarian comedy, recorded Fed 11, 2012, in Odessa Texas. Freedomain Radio is the largest and most popular philosophy show on the web - http://www.freedomainradio.com&lt;/span&gt;&lt;/div&gt;&lt;/td&gt;
+&lt;td style="font-size: 11px; line-height: 1.4em; padding-left: 20px;             padding-top: 1px;" width="146" valign="top"&gt;&lt;div&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;From:&lt;/span&gt;
+&lt;a href="http://www.youtube.com/profile?user=stefbot"&gt;stefbot&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;Views:&lt;/span&gt;
+3077&lt;/div&gt;
+&lt;div style="white-space: nowrap;text-align: left"&gt;&lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_half_11x11.gif"&gt;&lt;/div&gt;
+&lt;div style="font-size: 11px;"&gt;228
+&lt;span style="color: #666666; font-size: 11px;"&gt;ratings&lt;/span&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;Time:&lt;/span&gt;
+&lt;span style="color: #000000; font-size: 11px; font-weight: bold;"&gt;04:01&lt;/span&gt;&lt;/td&gt;
+&lt;td style="font-size: 11px; padding-left: 20px;"&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;More in&lt;/span&gt;
+&lt;a href="http://www.youtube.com/videos?c=23"&gt;Comedy&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;</content>
+        <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=oskwJGFR9eQ&amp;feature=youtube_gdata" />
+        <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/base/users/mrdowns/newsubscriptionvideos/oskwJGFR9eQ" />
+        <author>
+            <name>stefbot</name>
+            <uri>http://gdata.youtube.com/feeds/base/users/stefbot</uri>
+        </author>
+    </entry>
+    <entry>
+        <id>http://gdata.youtube.com/feeds/base/videos/wXTYdOvpB2A</id>
+        <published>2012-02-14T14:14:58.000Z</published>
+        <updated>2012-02-17T02:51:44.000Z</updated>
+        <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video" />
+        <title type="text">The State Is Not Great - Stefan Molyneux of Freedomain Radio at LibertyFest West!</title>
+        <content type="html">&lt;div style="color: #000000;font-family: Arial, Helvetica, sans-serif;     font-size:12px; font-size: 12px; width: 555px;"&gt;
+&lt;table cellspacing="0" cellpadding="0" border="0"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td width="140" valign="top" rowspan="2"&gt;&lt;div style="border: 1px solid #999999; margin: 0px 10px 5px 0px;"&gt;&lt;a href="http://www.youtube.com/watch?v=wXTYdOvpB2A&amp;amp;feature=youtube_gdata"&gt;&lt;img alt="" src="http://i.ytimg.com/vi/wXTYdOvpB2A/0.jpg"&gt;&lt;/a&gt;&lt;/div&gt;&lt;/td&gt;
+&lt;td width="256" valign="top"&gt;&lt;div style="font-size: 12px; font-weight: bold;"&gt;&lt;a style="font-size: 15px; font-weight: bold;                  font-decoration: none;" href="http://www.youtube.com/watch?v=wXTYdOvpB2A&amp;amp;feature=youtube_gdata"&gt;The State Is Not Great - Stefan Molyneux of Freedomain Radio at LibertyFest West!&lt;/a&gt;
+&lt;br&gt;&lt;/div&gt;
+&lt;div style="font-size: 12px; margin: 3px 0px;"&gt;&lt;span&gt;donate at http://www.libertyfestwest.com
+
+Stefan Molyneux, host of Freedomain Radio, talks about how best to help people understand the true value of human liberty. Freedomain Radio is the largest and most popular philosophy show on the web - http://www.freedomainradio.com&lt;/span&gt;&lt;/div&gt;&lt;/td&gt;
+&lt;td style="font-size: 11px; line-height: 1.4em; padding-left: 20px;             padding-top: 1px;" width="146" valign="top"&gt;&lt;div&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;From:&lt;/span&gt;
+&lt;a href="http://www.youtube.com/profile?user=stefbot"&gt;stefbot&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;Views:&lt;/span&gt;
+3477&lt;/div&gt;
+&lt;div style="white-space: nowrap;text-align: left"&gt;&lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_half_11x11.gif"&gt;&lt;/div&gt;
+&lt;div style="font-size: 11px;"&gt;254
+&lt;span style="color: #666666; font-size: 11px;"&gt;ratings&lt;/span&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;Time:&lt;/span&gt;
+&lt;span style="color: #000000; font-size: 11px; font-weight: bold;"&gt;33:10&lt;/span&gt;&lt;/td&gt;
+&lt;td style="font-size: 11px; padding-left: 20px;"&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;More in&lt;/span&gt;
+&lt;a href="http://www.youtube.com/videos?c=25"&gt;News &amp;amp; Politics&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;</content>
+        <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=wXTYdOvpB2A&amp;feature=youtube_gdata" />
+        <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/base/users/mrdowns/newsubscriptionvideos/wXTYdOvpB2A" />
+        <author>
+            <name>stefbot</name>
+            <uri>http://gdata.youtube.com/feeds/base/users/stefbot</uri>
+        </author>
+    </entry>
+    <entry>
+        <id>http://gdata.youtube.com/feeds/base/videos/JX_b8X3mTdI</id>
+        <published>2012-02-14T12:06:05.000Z</published>
+        <updated>2012-02-17T03:21:30.000Z</updated>
+        <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video" />
+        <title type="text">Minecraft - Valentines Day Animation</title>
+        <content type="html">&lt;div style="color: #000000;font-family: Arial, Helvetica, sans-serif;     font-size:12px; font-size: 12px; width: 555px;"&gt;
+&lt;table cellspacing="0" cellpadding="0" border="0"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td width="140" valign="top" rowspan="2"&gt;&lt;div style="border: 1px solid #999999; margin: 0px 10px 5px 0px;"&gt;&lt;a href="http://www.youtube.com/watch?v=JX_b8X3mTdI&amp;amp;feature=youtube_gdata"&gt;&lt;img alt="" src="http://i.ytimg.com/vi/JX_b8X3mTdI/0.jpg"&gt;&lt;/a&gt;&lt;/div&gt;&lt;/td&gt;
+&lt;td width="256" valign="top"&gt;&lt;div style="font-size: 12px; font-weight: bold;"&gt;&lt;a style="font-size: 15px; font-weight: bold;                  font-decoration: none;" href="http://www.youtube.com/watch?v=JX_b8X3mTdI&amp;amp;feature=youtube_gdata"&gt;Minecraft - Valentines Day Animation&lt;/a&gt;
+&lt;br&gt;&lt;/div&gt;
+&lt;div style="font-size: 12px; margin: 3px 0px;"&gt;&lt;span&gt;Happy Valentines Day! This animation appeared out of the blue and here it is, see what you think! Shadow of Israphel Episode 36 should be out this evening - we recorded an episode yesterday so I&amp;#39;ll upload it when I&amp;#39;ve managed to edit everything together, although Hannah is going to be really mad at me for spending all day working. 
+
+&amp;#9679; Animation by Reckreations: http://www.youtube.com/user/Reckreations
+&amp;#9834; Musical Cues by Jamie Soar: http://jamiesoar.bandcamp.com/
+
+&amp;#9679; Yogscast Gear: http://yogscast.spreadshirt.co.uk/
+&amp;#9679; Facebook: http://www.facebook.com/yogscast
+&amp;#9679; Twitter: http://www.twitter.com/yogscast
+&amp;#9679; Forums: http://yogscast.com/forum.php
+&amp;#9679; Podcast: http://itunes.apple.com/gb/podcast/the-yogpod/id304557271&lt;/span&gt;&lt;/div&gt;&lt;/td&gt;
+&lt;td style="font-size: 11px; line-height: 1.4em; padding-left: 20px;             padding-top: 1px;" width="146" valign="top"&gt;&lt;div&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;From:&lt;/span&gt;
+&lt;a href="http://www.youtube.com/profile?user=BlueXephos"&gt;BlueXephos&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;Views:&lt;/span&gt;
+593645&lt;/div&gt;
+&lt;div style="white-space: nowrap;text-align: left"&gt;&lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_half_11x11.gif"&gt;&lt;/div&gt;
+&lt;div style="font-size: 11px;"&gt;16148
+&lt;span style="color: #666666; font-size: 11px;"&gt;ratings&lt;/span&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;Time:&lt;/span&gt;
+&lt;span style="color: #000000; font-size: 11px; font-weight: bold;"&gt;01:57&lt;/span&gt;&lt;/td&gt;
+&lt;td style="font-size: 11px; padding-left: 20px;"&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;More in&lt;/span&gt;
+&lt;a href="http://www.youtube.com/videos?c=43"&gt;Shows&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;</content>
+        <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=JX_b8X3mTdI&amp;feature=youtube_gdata" />
+        <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/base/users/mrdowns/newsubscriptionvideos/JX_b8X3mTdI" />
+        <author>
+            <name>BlueXephos</name>
+            <uri>http://gdata.youtube.com/feeds/base/users/BlueXephos</uri>
+        </author>
+    </entry>
+    <entry>
+        <id>http://gdata.youtube.com/feeds/base/videos/ZAn9bpF4DeU</id>
+        <published>2012-02-14T11:01:11.000Z</published>
+        <updated>2012-02-16T23:38:00.000Z</updated>
+        <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video" />
+        <title type="text">Wende Museum: An Archive of the Cold War</title>
+        <content type="html">&lt;div style="color: #000000;font-family: Arial, Helvetica, sans-serif;     font-size:12px; font-size: 12px; width: 555px;"&gt;
+&lt;table cellspacing="0" cellpadding="0" border="0"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td width="140" valign="top" rowspan="2"&gt;&lt;div style="border: 1px solid #999999; margin: 0px 10px 5px 0px;"&gt;&lt;a href="http://www.youtube.com/watch?v=ZAn9bpF4DeU&amp;amp;feature=youtube_gdata"&gt;&lt;img alt="" src="http://i.ytimg.com/vi/ZAn9bpF4DeU/0.jpg"&gt;&lt;/a&gt;&lt;/div&gt;&lt;/td&gt;
+&lt;td width="256" valign="top"&gt;&lt;div style="font-size: 12px; font-weight: bold;"&gt;&lt;a style="font-size: 15px; font-weight: bold;                  font-decoration: none;" href="http://www.youtube.com/watch?v=ZAn9bpF4DeU&amp;amp;feature=youtube_gdata"&gt;Wende Museum: An Archive of the Cold War&lt;/a&gt;
+&lt;br&gt;&lt;/div&gt;
+&lt;div style="font-size: 12px; margin: 3px 0px;"&gt;&lt;span&gt;&amp;quot;The fall of the (Berlin) Wall only occurred 20 years ago. It&amp;#39;s very recent, but it&amp;#39;s very important, perhaps one of the most important historical events of our age,&amp;quot; says Justinian Jampol, the founder and Executive Director of the Los Angeles-based Wende Museum.
+
+The Wende&amp;#39;s mission is to preserve Cold War artifacts and personal histories from the Eastern side of the Iron Curtain, with a special emphasis on the former East Germany. Many of the materials that make up the museum&amp;#39;s collection come from former Stasi secret police agents, Berlin Wall border guards, and members of the other Eastern European and Soviet communist regimes that would have otherwise been lost to history. 
+
+Jampol describes one of the museum&amp;#39;s treasures: the Berlin Wall border guards&amp;#39; log books from the day the Wall fell. These books demonstrate the devotion some guards had for defending the Wall, both as an idea and a physical presence, as they continued to detail the thousands of &amp;quot;illegal border crossings&amp;quot; that took place after the Wall had already fallen.
+
+The museum is also behind the &amp;quot;Wall on Wilshire Project,&amp;quot; where 10 pieces of the monstrous Berlin Wall were flown to LA, reconstructed along a stretch of Wilshire Boulevard and painted over by street artists to commemorate the 20th anniversary of the fall of the Wall.
+
+Approximately 4.25 minutes. Produced by Anthony L. Fisher. Shot by Sharif Matar.
+
+Music: &amp;quot;Warzaw Express&amp;quot; by Pharaos
+
+Go to http://www.reason.tv for downloadable versions of this video and subscribe to Reason.tv&amp;#39;s YouTube channel for automatic notifications when new material goes live.&lt;/span&gt;&lt;/div&gt;&lt;/td&gt;
+&lt;td style="font-size: 11px; line-height: 1.4em; padding-left: 20px;             padding-top: 1px;" width="146" valign="top"&gt;&lt;div&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;From:&lt;/span&gt;
+&lt;a href="http://www.youtube.com/profile?user=ReasonTV"&gt;ReasonTV&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;Views:&lt;/span&gt;
+3078&lt;/div&gt;
+&lt;div style="white-space: nowrap;text-align: left"&gt;&lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_half_11x11.gif"&gt;&lt;/div&gt;
+&lt;div style="font-size: 11px;"&gt;67
+&lt;span style="color: #666666; font-size: 11px;"&gt;ratings&lt;/span&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;Time:&lt;/span&gt;
+&lt;span style="color: #000000; font-size: 11px; font-weight: bold;"&gt;04:27&lt;/span&gt;&lt;/td&gt;
+&lt;td style="font-size: 11px; padding-left: 20px;"&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;More in&lt;/span&gt;
+&lt;a href="http://www.youtube.com/videos?c=25"&gt;News &amp;amp; Politics&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;</content>
+        <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=ZAn9bpF4DeU&amp;feature=youtube_gdata" />
+        <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/base/users/mrdowns/newsubscriptionvideos/ZAn9bpF4DeU" />
+        <author>
+            <name>ReasonTV</name>
+            <uri>http://gdata.youtube.com/feeds/base/users/ReasonTV</uri>
+        </author>
+    </entry>
+    <entry>
+        <id>http://gdata.youtube.com/feeds/base/videos/N33FiGsjqag</id>
+        <published>2012-02-14T08:36:58.000Z</published>
+        <updated>2012-02-17T03:23:48.000Z</updated>
+        <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video" />
+        <title type="text">Mr. Deity and The Occupation</title>
+        <content type="html">&lt;div style="color: #000000;font-family: Arial, Helvetica, sans-serif;     font-size:12px; font-size: 12px; width: 555px;"&gt;
+&lt;table cellspacing="0" cellpadding="0" border="0"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td width="140" valign="top" rowspan="2"&gt;&lt;div style="border: 1px solid #999999; margin: 0px 10px 5px 0px;"&gt;&lt;a href="http://www.youtube.com/watch?v=N33FiGsjqag&amp;amp;feature=youtube_gdata"&gt;&lt;img alt="" src="http://i.ytimg.com/vi/N33FiGsjqag/0.jpg"&gt;&lt;/a&gt;&lt;/div&gt;&lt;/td&gt;
+&lt;td width="256" valign="top"&gt;&lt;div style="font-size: 12px; font-weight: bold;"&gt;&lt;a style="font-size: 15px; font-weight: bold;                  font-decoration: none;" href="http://www.youtube.com/watch?v=N33FiGsjqag&amp;amp;feature=youtube_gdata"&gt;Mr. Deity and The Occupation&lt;/a&gt;
+&lt;br&gt;&lt;/div&gt;
+&lt;div style="font-size: 12px; margin: 3px 0px;"&gt;&lt;span&gt;Mr. Deity is confronted by the Occupy Heaven Movement
+http://mrdeity.com/donate.html
+http://mrdeity.com/dvd-season4.html
+http://mrdeity.com/dvd-season3.html
+http://mrdeity.com/
+http://itunes.apple.com/us/album/ruslan/id472373968
+http://www.amazon.com/Ruslan-Sirota/dp/B005L24M7Y/ref=sr_1_1?ie=UTF8&amp;amp;qid=1329199291&amp;amp;sr=8-1
+http://www.facebook.com/Ruslanmusic
+http://www.skeptic.com/
+Watch Bryan Fischer talk about how God sends people to Hell because he loves them:
+http://www.youtube.com/watch?v=8FmIMAA46A8&lt;/span&gt;&lt;/div&gt;&lt;/td&gt;
+&lt;td style="font-size: 11px; line-height: 1.4em; padding-left: 20px;             padding-top: 1px;" width="146" valign="top"&gt;&lt;div&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;From:&lt;/span&gt;
+&lt;a href="http://www.youtube.com/profile?user=misterdeity"&gt;misterdeity&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;Views:&lt;/span&gt;
+10843&lt;/div&gt;
+&lt;div style="white-space: nowrap;text-align: left"&gt;&lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_half_11x11.gif"&gt;&lt;/div&gt;
+&lt;div style="font-size: 11px;"&gt;1061
+&lt;span style="color: #666666; font-size: 11px;"&gt;ratings&lt;/span&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;Time:&lt;/span&gt;
+&lt;span style="color: #000000; font-size: 11px; font-weight: bold;"&gt;07:05&lt;/span&gt;&lt;/td&gt;
+&lt;td style="font-size: 11px; padding-left: 20px;"&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;More in&lt;/span&gt;
+&lt;a href="http://www.youtube.com/videos?c=23"&gt;Comedy&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;</content>
+        <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=N33FiGsjqag&amp;feature=youtube_gdata" />
+        <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/base/users/mrdowns/newsubscriptionvideos/N33FiGsjqag" />
+        <author>
+            <name>misterdeity</name>
+            <uri>http://gdata.youtube.com/feeds/base/users/misterdeity</uri>
+        </author>
+    </entry>
+    <entry>
+        <id>http://gdata.youtube.com/feeds/base/videos/f6VjjAem2Kg</id>
+        <published>2012-02-14T00:12:24.000Z</published>
+        <updated>2012-02-17T00:50:47.000Z</updated>
+        <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video" />
+        <title type="text">Should NASA Exist?</title>
+        <content type="html">&lt;div style="color: #000000;font-family: Arial, Helvetica, sans-serif;     font-size:12px; font-size: 12px; width: 555px;"&gt;
+&lt;table cellspacing="0" cellpadding="0" border="0"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td width="140" valign="top" rowspan="2"&gt;&lt;div style="border: 1px solid #999999; margin: 0px 10px 5px 0px;"&gt;&lt;a href="http://www.youtube.com/watch?v=f6VjjAem2Kg&amp;amp;feature=youtube_gdata"&gt;&lt;img alt="" src="http://i.ytimg.com/vi/f6VjjAem2Kg/0.jpg"&gt;&lt;/a&gt;&lt;/div&gt;&lt;/td&gt;
+&lt;td width="256" valign="top"&gt;&lt;div style="font-size: 12px; font-weight: bold;"&gt;&lt;a style="font-size: 15px; font-weight: bold;                  font-decoration: none;" href="http://www.youtube.com/watch?v=f6VjjAem2Kg&amp;amp;feature=youtube_gdata"&gt;Should NASA Exist?&lt;/a&gt;
+&lt;br&gt;&lt;/div&gt;
+&lt;div style="font-size: 12px; margin: 3px 0px;"&gt;&lt;span&gt;Donate: http://www.jacobspinney.com/donate
+Blog: http://www.jacobspinney.com/blog
+Backup: http://www.youtube.com/otherjacobspinney
+Books: http://www.jacobspinney.com/books
+Response to: http://www.youtube.com/watch?v=iSRZmynlxXw&lt;/span&gt;&lt;/div&gt;&lt;/td&gt;
+&lt;td style="font-size: 11px; line-height: 1.4em; padding-left: 20px;             padding-top: 1px;" width="146" valign="top"&gt;&lt;div&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;From:&lt;/span&gt;
+&lt;a href="http://www.youtube.com/profile?user=JacobSpinney"&gt;JacobSpinney&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;Views:&lt;/span&gt;
+344&lt;/div&gt;
+&lt;div style="white-space: nowrap;text-align: left"&gt;&lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_half_11x11.gif"&gt;&lt;/div&gt;
+&lt;div style="font-size: 11px;"&gt;91
+&lt;span style="color: #666666; font-size: 11px;"&gt;ratings&lt;/span&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;Time:&lt;/span&gt;
+&lt;span style="color: #000000; font-size: 11px; font-weight: bold;"&gt;03:44&lt;/span&gt;&lt;/td&gt;
+&lt;td style="font-size: 11px; padding-left: 20px;"&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;More in&lt;/span&gt;
+&lt;a href="http://www.youtube.com/videos?c=22"&gt;People &amp;amp; Blogs&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;</content>
+        <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=f6VjjAem2Kg&amp;feature=youtube_gdata" />
+        <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/base/users/mrdowns/newsubscriptionvideos/f6VjjAem2Kg" />
+        <author>
+            <name>JacobSpinney</name>
+            <uri>http://gdata.youtube.com/feeds/base/users/JacobSpinney</uri>
+        </author>
+    </entry>
+    <entry>
+        <id>http://gdata.youtube.com/feeds/base/videos/Sb-Bgr6eSnc</id>
+        <published>2012-02-13T23:46:30.000Z</published>
+        <updated>2012-02-16T04:54:37.000Z</updated>
+        <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video" />
+        <title type="text">Howard  Fineman of MSNBC does not know if the Iraq War was a mistake</title>
+        <content type="html">&lt;div style="color: #000000;font-family: Arial, Helvetica, sans-serif;     font-size:12px; font-size: 12px; width: 555px;"&gt;
+&lt;table cellspacing="0" cellpadding="0" border="0"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td width="140" valign="top" rowspan="2"&gt;&lt;div style="border: 1px solid #999999; margin: 0px 10px 5px 0px;"&gt;&lt;a href="http://www.youtube.com/watch?v=Sb-Bgr6eSnc&amp;amp;feature=youtube_gdata"&gt;&lt;img alt="" src="http://i.ytimg.com/vi/Sb-Bgr6eSnc/0.jpg"&gt;&lt;/a&gt;&lt;/div&gt;&lt;/td&gt;
+&lt;td width="256" valign="top"&gt;&lt;div style="font-size: 12px; font-weight: bold;"&gt;&lt;a style="font-size: 15px; font-weight: bold;                  font-decoration: none;" href="http://www.youtube.com/watch?v=Sb-Bgr6eSnc&amp;amp;feature=youtube_gdata"&gt;Howard  Fineman of MSNBC does not know if the Iraq War was a mistake&lt;/a&gt;
+&lt;br&gt;&lt;/div&gt;
+&lt;div style="font-size: 12px; margin: 3px 0px;"&gt;&lt;span&gt;Howard  Fineman, TV Commentator for  MSNBC does not know if the Iraq War was a mistake and claims he never offered an opinion on the subject. In 10 years of doing Hardball. Chris Matthews was not able to convince him in 10 years. All I needed was  10 minutes but he would not talk about it. Instead, he wanted revenge.&lt;/span&gt;&lt;/div&gt;&lt;/td&gt;
+&lt;td style="font-size: 11px; line-height: 1.4em; padding-left: 20px;             padding-top: 1px;" width="146" valign="top"&gt;&lt;div&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;From:&lt;/span&gt;
+&lt;a href="http://www.youtube.com/profile?user=janhelfeld"&gt;janhelfeld&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;Views:&lt;/span&gt;
+233&lt;/div&gt;
+&lt;div style="white-space: nowrap;text-align: left"&gt;&lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt;&lt;/div&gt;
+&lt;div style="font-size: 11px;"&gt;32
+&lt;span style="color: #666666; font-size: 11px;"&gt;ratings&lt;/span&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;Time:&lt;/span&gt;
+&lt;span style="color: #000000; font-size: 11px; font-weight: bold;"&gt;06:51&lt;/span&gt;&lt;/td&gt;
+&lt;td style="font-size: 11px; padding-left: 20px;"&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;More in&lt;/span&gt;
+&lt;a href="http://www.youtube.com/videos?c=25"&gt;News &amp;amp; Politics&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;</content>
+        <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=Sb-Bgr6eSnc&amp;feature=youtube_gdata" />
+        <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/base/users/mrdowns/newsubscriptionvideos/Sb-Bgr6eSnc" />
+        <author>
+            <name>janhelfeld</name>
+            <uri>http://gdata.youtube.com/feeds/base/users/janhelfeld</uri>
+        </author>
+    </entry>
+    <entry>
+        <id>http://gdata.youtube.com/feeds/base/videos/aFZ_Rwmm9XI</id>
+        <published>2012-02-13T23:42:00.000Z</published>
+        <updated>2012-02-17T03:23:01.000Z</updated>
+        <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video" />
+        <title type="text">???????2?-Maru is relaxed in the bathroom 2.-</title>
+        <content type="html">&lt;div style="color: #000000;font-family: Arial, Helvetica, sans-serif;     font-size:12px; font-size: 12px; width: 555px;"&gt;
+&lt;table cellspacing="0" cellpadding="0" border="0"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td width="140" valign="top" rowspan="2"&gt;&lt;div style="border: 1px solid #999999; margin: 0px 10px 5px 0px;"&gt;&lt;a href="http://www.youtube.com/watch?v=aFZ_Rwmm9XI&amp;amp;feature=youtube_gdata"&gt;&lt;img alt="" src="http://i.ytimg.com/vi/aFZ_Rwmm9XI/0.jpg"&gt;&lt;/a&gt;&lt;/div&gt;&lt;/td&gt;
+&lt;td width="256" valign="top"&gt;&lt;div style="font-size: 12px; font-weight: bold;"&gt;&lt;a style="font-size: 15px; font-weight: bold;                  font-decoration: none;" href="http://www.youtube.com/watch?v=aFZ_Rwmm9XI&amp;amp;feature=youtube_gdata"&gt;&amp;#28155;&amp;#12356;&amp;#39080;&amp;#21570;&amp;#12394;&amp;#12397;&amp;#12371;&amp;#65298;&amp;#12290;-Maru is relaxed in the bathroom 2.-&lt;/a&gt;
+&lt;br&gt;&lt;/div&gt;
+&lt;div style="font-size: 12px; margin: 3px 0px;"&gt;&lt;span&gt;&amp;#20170;&amp;#20908;&amp;#12418;&amp;#12362;&amp;#20184;&amp;#12365;&amp;#21512;&amp;#12356;&amp;#12356;&amp;#12383;&amp;#12384;&amp;#12356;&amp;#12390;&amp;#12414;&amp;#12377;&amp;#12290;While I take a bath in winter, Maru is relaxed on the cover of bathtub.&lt;/span&gt;&lt;/div&gt;&lt;/td&gt;
+&lt;td style="font-size: 11px; line-height: 1.4em; padding-left: 20px;             padding-top: 1px;" width="146" valign="top"&gt;&lt;div&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;From:&lt;/span&gt;
+&lt;a href="http://www.youtube.com/profile?user=mugumogu"&gt;mugumogu&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;Views:&lt;/span&gt;
+85817&lt;/div&gt;
+&lt;div style="white-space: nowrap;text-align: left"&gt;&lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_half_11x11.gif"&gt;&lt;/div&gt;
+&lt;div style="font-size: 11px;"&gt;2673
+&lt;span style="color: #666666; font-size: 11px;"&gt;ratings&lt;/span&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;Time:&lt;/span&gt;
+&lt;span style="color: #000000; font-size: 11px; font-weight: bold;"&gt;02:14&lt;/span&gt;&lt;/td&gt;
+&lt;td style="font-size: 11px; padding-left: 20px;"&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;More in&lt;/span&gt;
+&lt;a href="http://www.youtube.com/videos?c=15"&gt;Pets &amp;amp; Animals&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;</content>
+        <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=aFZ_Rwmm9XI&amp;feature=youtube_gdata" />
+        <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/base/users/mrdowns/newsubscriptionvideos/aFZ_Rwmm9XI" />
+        <author>
+            <name>mugumogu</name>
+            <uri>http://gdata.youtube.com/feeds/base/users/mugumogu</uri>
+        </author>
+    </entry>
+    <entry>
+        <id>http://gdata.youtube.com/feeds/base/videos/MIl5s9LjdMo</id>
+        <published>2012-02-13T21:03:00.000Z</published>
+        <updated>2012-02-17T03:09:29.000Z</updated>
+        <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video" />
+        <title type="text">Yogscast - Left 4 Dead Minecraft Mod Part 3</title>
+        <content type="html">&lt;div style="color: #000000;font-family: Arial, Helvetica, sans-serif;     font-size:12px; font-size: 12px; width: 555px;"&gt;
+&lt;table cellspacing="0" cellpadding="0" border="0"&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td width="140" valign="top" rowspan="2"&gt;&lt;div style="border: 1px solid #999999; margin: 0px 10px 5px 0px;"&gt;&lt;a href="http://www.youtube.com/watch?v=MIl5s9LjdMo&amp;amp;feature=youtube_gdata"&gt;&lt;img alt="" src="http://i.ytimg.com/vi/MIl5s9LjdMo/0.jpg"&gt;&lt;/a&gt;&lt;/div&gt;&lt;/td&gt;
+&lt;td width="256" valign="top"&gt;&lt;div style="font-size: 12px; font-weight: bold;"&gt;&lt;a style="font-size: 15px; font-weight: bold;                  font-decoration: none;" href="http://www.youtube.com/watch?v=MIl5s9LjdMo&amp;amp;feature=youtube_gdata"&gt;Yogscast - Left 4 Dead Minecraft Mod Part 3&lt;/a&gt;
+&lt;br&gt;&lt;/div&gt;
+&lt;div style="font-size: 12px; margin: 3px 0px;"&gt;&lt;span&gt;Er, yeah, so this week we&amp;#39;re doing things the other way around! I edited this quickly, so forgive any roughness. We were also joined by Duncan on this one, which may explain why we didn&amp;#39;t just die over and over. He actually knows how to play games. http://www.youtube.com/yogscastlalna
+
+The mod is available here! http://www.l4dmaps.com/details.php?file=13729
+It&amp;#39;s actually a very simple install, just unzip the .vpk file to your:
+C:\Program Files (x86)\Steam\steamapps\common\left 4 dead\left4dead\addons
+then you should be able to host a &amp;quot;custom&amp;quot; campaign! Have fun :)
+
+&amp;#9679; Yogscast Gear: http://yogscast.spreadshirt.co.uk/
+&amp;#9679; Facebook: http://www.facebook.com/yogscast
+&amp;#9679; Twitter: http://www.twitter.com/yogscast
+&amp;#9679; Forums: http://yogscast.com/forum.php
+&amp;#9679; Podcast: http://itunes.apple.com/gb/podcast/the-yogpod/id304557271&lt;/span&gt;&lt;/div&gt;&lt;/td&gt;
+&lt;td style="font-size: 11px; line-height: 1.4em; padding-left: 20px;             padding-top: 1px;" width="146" valign="top"&gt;&lt;div&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;From:&lt;/span&gt;
+&lt;a href="http://www.youtube.com/profile?user=BlueXephos"&gt;BlueXephos&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;Views:&lt;/span&gt;
+240703&lt;/div&gt;
+&lt;div style="white-space: nowrap;text-align: left"&gt;&lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"&gt; &lt;img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_half_11x11.gif"&gt;&lt;/div&gt;
+&lt;div style="font-size: 11px;"&gt;4801
+&lt;span style="color: #666666; font-size: 11px;"&gt;ratings&lt;/span&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;Time:&lt;/span&gt;
+&lt;span style="color: #000000; font-size: 11px; font-weight: bold;"&gt;16:10&lt;/span&gt;&lt;/td&gt;
+&lt;td style="font-size: 11px; padding-left: 20px;"&gt;&lt;span style="color: #666666; font-size: 11px;"&gt;More in&lt;/span&gt;
+&lt;a href="http://www.youtube.com/videos?c=43"&gt;Shows&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;</content>
+        <link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=MIl5s9LjdMo&amp;feature=youtube_gdata" />
+        <link rel="self" type="application/atom+xml" href="http://gdata.youtube.com/feeds/base/users/mrdowns/newsubscriptionvideos/MIl5s9LjdMo" />
+        <author>
+            <name>BlueXephos</name>
+            <uri>http://gdata.youtube.com/feeds/base/users/BlueXephos</uri>
+        </author>
+    </entry>
+</feed>
