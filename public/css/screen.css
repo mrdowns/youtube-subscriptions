@@ -1,0 +1,40 @@
+body
+{
+  background-color: #aaa;
+  font: 12pt Arial;
+  margin: 0 auto;
+}
+
+ul, li 
+{ 
+  margin: 0; 
+  list-style-type: none; 
+}
+
+li 
+{ 
+  margin: 1px;
+  float: left; 
+  position: relative; 
+}
+
+li, img
+{
+  width: 240px;
+  height: 180px;
+}
+
+header 
+{ 
+  position: absolute; 
+  padding: 5px;
+  bottom: 0; 
+  left: 0;
+  right: 0;
+  color: white; 
+  background-color: black; 
+  opacity: 0.6; 
+  height: 4ex;
+  overflow: hidden;
+}
+

@@ -1,0 +1,17 @@
+<!DOCTYPE HTML>
+<html>
+  <head>
+    <title>youtube subscription wall</title>
+    <link rel="stylesheet" type="text/css" href="/css/screen.css" />
+  </head>
+  <body>
+    <ul>
+    <% videos.each do |video| %>
+      <li>
+        <header><%= video.title %></header> 
+        <img src='http://img.youtube.com/vi/<%= video.video_id %>/hqdefault.jpg' />
+      </li>
+    <% end %>
+    </ul>
+  </body>
+</html>
