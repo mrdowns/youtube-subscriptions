@@ -17,7 +17,7 @@ end
 
 class Video
 
-  attr_accessor :title, :video_id
+  attr_accessor :title, :video_id, :user
 
   def self.parse_from_feed(doc)
     videos = Array.new 
@@ -34,6 +34,9 @@ class Video
     
     content = atom_xpath(node, "content").first 
     @video_id = $1 if /watch\?v=([A-Za-z0-9_-]+)/ =~ content
+
+    author = atom_xpath(node, "author").first
+    @user = atom_xpath(author, "name").first.text.to_s
   end
 
   private
