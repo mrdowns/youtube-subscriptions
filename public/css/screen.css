@@ -18,6 +18,17 @@ li
   position: relative; 
 }
 
+a img 
+{
+  border: 0;
+}
+
+a
+{
+  text-decoration: none;
+  color: inherit;
+}
+
 li, img
 {
   width: 240px;

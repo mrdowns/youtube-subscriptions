@@ -8,11 +8,21 @@
     <ul>
     <% videos.each do |video| %>
       <li>
-        <div class="title"><%= video.title %></div> 
-        <div class="author"><%= video.user %></div>
-        <img src='http://img.youtube.com/vi/<%= video.video_id %>/hqdefault.jpg' />
+        <div class="title">
+          <a href="http://youtube.com/watch?v=<%= video.video_id %>"><%= video.title %></a>
+        </div> 
+        <div class="author"><a href="http://youtube.com/user/<%= video.user %>"><%= video.user %></a></div>
+        <a href="http://youtube.com/watch?v=<%= video.video_id %>">
+          <img src='http://img.youtube.com/vi/<%= video.video_id %>/hqdefault.jpg' />
+        </a>
       </li>
     <% end %>
     </ul>
+    <script type="text/html">
+      <iframe width="560" height="315" 
+        src="http://www.youtube.com/embed/{{video_id}}" 
+        frameborder="0" 
+        allowfullscreen></iframe>
+    </script>
   </body>
 </html>
